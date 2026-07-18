@@ -1,38 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abhiyanshu Kumar</h1>
-<h3 align="center">Full Stack MERN Developer | AI & Agentic AI Enthusiast | DSA Practitioner</h3>
+<h1 align="center">Hi there 👋</h1>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 Final Year Information Science Engineering Student at **SJBIT, Bengaluru**
+I'm **Abhiyanshu Kumar**, a final-year Information Science Engineering student from **SJB Institute of Technology, Bengaluru**.
 
-💻 Passionate about building scalable **Full Stack MERN Applications**
+I enjoy building scalable full-stack web applications using the **MERN Stack** and solving complex problems through **Data Structures & Algorithms**. Recently, I've been exploring **AI-powered applications**, working with **Google Gemini API**, **Semantic Search**, and intelligent developer tools.
 
-🤖 Currently learning **Generative AI, Agentic AI, LangChain, RAG & LLM Applications**
-
-🧠 Solved **250+ DSA Problems**
-
-🌱 Currently working on **AI Coding Interview Assistant** and **AgriNutrigen**
-
-🎯 Goal: Become an **AI Software Engineer**
+I'm passionate about building real-world software, continuously learning new technologies, and collaborating on impactful open-source projects.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+
+<a href="https://linkedin.com/in/abhiyanshu-kumar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhiyanshusingh3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AbhiyanshuKumar12">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -42,123 +37,96 @@
 ### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+### AI & LLM
 
-### AI / LLM
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-blue?style=for-the-badge)
-
-![FAISS](https://img.shields.io/badge/FAISS-orange?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-red?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-5E35B1?style=for-the-badge)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Coding Interview Assistant
-- Resume Intelligence
-- AI Interview Generation
-- LangChain Agents
-- Gemini API
-- FAISS Vector Database
-- JWT Authentication
-- React + Node + MongoDB
+### 📚 CollegeHub
+
+A centralized Notes Sharing Platform where students can upload, download and review notes.
+
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
-## 🌾 AgriNutrigen
-AI-powered Agriculture + Nutrition Recommendation System
+### 💬 sjbTalks
 
-- Decision Tree ML
-- React
-- Node.js
-- Express.js
-- Nutrition Analytics
-- Sustainable Agriculture
+A real-time chat application supporting chat rooms, typing indicators and persistent chat history.
+
+**Tech:** MERN • Socket.IO
 
 ---
 
-## 📚 CollegeHub
+### 🤖 Finance Assistant
 
-A centralized notes sharing platform for students.
+A hackathon project focused on simplifying financial learning using an interactive user interface.
 
-- MERN Stack
-- REST APIs
-- MongoDB
-- Review & Rating System
-
----
-
-## 💬 sjbTalks
-
-Real-Time Chat Application
-
-- Socket.IO
-- MERN Stack
-- JWT Authentication
-- Emoji Reactions
-- Chat Rooms
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AbhiyanshuKumar12&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=AbhiyanshuKumar12&theme=github_dark&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiyanshuKumar12&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiyanshuKumar12&theme=github-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiyanshuKumar12&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiyanshuKumar12&layout=compact&theme=github_dark)
 
 ---
 
 # 🏆 Achievements
 
-🏅 Finalist - CampusToCorporate 2025
+🏅 Finalist — CampusToCorporate 2025
 
-💻 Solved **250+ DSA Problems**
+💯 Solved 250+ DSA Problems
 
-🚀 MERN Stack Developer
+☁️ AWS Cloud Technical Essentials Certified
 
-🤖 Building AI & Agentic AI Applications
+🎓 CGPA: 8.67
 
 ---
 
-## 📈 Visitor Count
+# 📚 Currently Learning
+
+- Agentic AI
+- LangGraph
+- Advanced React
+- System Design
+- Cloud Deployment
+
+---
 
 ![](https://komarev.com/ghpvc/?username=AbhiyanshuKumar12&style=for-the-badge)
