@@ -1,48 +1,61 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abhiyanshu+Kumar+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%26+FastAPI;Building+Scalable+Web+Apps+%26+Backend+Systems;Java+%7C+DSA+%7C+Low-Level+Design" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img src="./dark.svg" alt="Abhiyanshu Kumar — Full-Stack Developer Profile Banner" width="100%" />
+  </picture>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AbhiyanshuKumar12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br />
+
+Full-stack developer based in **Bengaluru, India**, pursuing a **B.E. in Information Science & Engineering** at **SJB Institute of Technology** (`2023–2027`, CGPA `8.67`). Focused on building scalable MERN applications, real-time WebSocket systems, and clean backend APIs alongside consistent Data Structures & Algorithms practice in Java.
 
 ---
 
-### 🚀 About Me
-- 🎓 Final-year **B.E. Information Science & Engineering** student at **SJB Institute of Technology**, Bengaluru (`Class of 2027`)
-- 💻 Full-Stack & Software Development Intern at **BharatTech**
-- 🛠️ Experienced in building end-to-end web apps with **MERN Stack**, **Python (FastAPI)**, **PostgreSQL**, and **MongoDB**
-- 🧩 Actively sharpening **Data Structures, Algorithms, and Low-Level Design (LLD)** in **Java**
-- 🐧 Daily driver: **Ubuntu Linux**
+### Experience
+
+**Full Stack Development Intern** — **Bharat Tech Private Limited** *(Aug 2026 – Present · Remote)*
+- Onboarded onto the engineering team's full-stack codebase, aligning with existing architecture, coding standards, and development workflows.
+- Collaborating with engineers to build, maintain, and debug full-stack features across the application.
 
 ---
 
-### 🛠️ Tech Stack
+### Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,py,html,css,react,tailwind,vite,nodejs,express,fastapi,mongodb,postgres,mysql,supabase,git,github,postman,linux&perline=10" alt="Tech Stack Icons" />
-</p>
-
----
-
-### 🌟 Featured Projects
-- **AgriNutrigen** — Genomic-driven crop recommendation planner built with React.js, Node.js, Express.js, and TensorFlow.js.
-- **Food-Rescue** — Database-backed platform connecting food donors, NGOs, and volunteers for efficient pickup coordination.
-- **Finance Assistant** — MERN-stack personal finance platform featuring user authentication and an integrated Gemini AI chatbot.
+| Project | Stack | Overview |
+| :--- | :--- | :--- |
+| **CollegeHub** | `MongoDB` `Express.js` `React.js` `Node.js` | Centralized MERN platform for discovering and downloading academic notes with multi-part file upload APIs and search filtering by subject, professor, and rating. |
+| **sjbTalks** | `MERN` `Socket.IO` `MongoDB` | Real-time chat application with event-driven WebSocket architecture, concurrent room namespaces, typing indicators, heartbeat stability, and indexed chat history storage. |
+| **AgriNutrigen** | `React.js` `Node.js` `Express.js` `ML (CART)` | Genomic-driven crop recommendation planner combining a hybrid CART decision tree and rule-based engine with an interactive React dashboard. |
 
 ---
 
-### 📊 GitHub Analytics
+### Engineering Stack
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AbhiyanshuKumar12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiyanshuKumar12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** React.js, Tailwind CSS, HTML
+- **Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.IO)
+- **Databases:** MongoDB, MySQL
+- **Cloud & Auth:** Firebase Authentication
+- **AI / ML:** Decision Trees (CART)
+- **Tools:** Git, GitHub, Postman
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhiyanshuKumar12&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+---
+
+### Achievements & Certifications
+
+- **250+ DSA Problems Solved** across LeetCode and GeeksforGeeks using Java
+- **Finalist** — Campus To Corporate 2025, SJB Institute of Technology
+- **AWS Cloud Technical Essentials** — Amazon Web Services (2026)
+- **Full Stack Development (MERN)** — Udemy (2025)
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://github.com/AbhiyanshuKumar12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/abhiyanshu-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhiyanshusingh3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
